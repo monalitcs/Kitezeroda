@@ -15,6 +15,7 @@ public class base {
 	    driver.manage().window().maximize();
 	    //implicitly wait
 	    driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+		//monali dupare
 	}
 }
 
